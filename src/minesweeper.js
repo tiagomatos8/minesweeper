@@ -1,3 +1,5 @@
+//autor: Tiago Cesar de Morais Matos
+
 const board = [
   [' ', ' ', ' '],
   [' ', ' ', ' '],
